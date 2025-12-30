@@ -31,13 +31,13 @@ design.
 ## 📸 Screenshots
 
 ### Homepage
-![Home](./screenshots/home.png)
+![Home](./screenshots/home.webp)
 
 ### Services Section
 ![Services](./screenshots/services.png)
 
 ### Appointment Booking
-![Appointment](./screenshots/appointment.png)
+![Appointment](./screenshots/appointment.webp)
 
 ---
 ## Live site link: 
