@@ -34,10 +34,10 @@ design.
 ![Home](./screenshots/home.webp)
 
 ### Services Section
-![Services](./screenshots/services.png)
+![Services](./screenshots/service.webp)
 
 ### Appointment Booking
-![Appointment](./screenshots/appointment.webp)
+![Appointment](./screenshots/appoinment.webp)
 
 ---
 ## Live site link: 
